@@ -26,5 +26,5 @@ void main()
         ++low;
     }
 
-    return 0;
+    
 }
