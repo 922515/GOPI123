@@ -1,0 +1,10 @@
+#  = int(raw_input())
+
+to read an integer from input, or
+
+var1, var2 = [int(x) for x in raw_input().split()]
+
+to read multiple integers on the same line...
+
+To print you can use the basic print function!!
+
