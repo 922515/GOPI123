@@ -4,9 +4,6 @@
 
 void main()
 
-{
-
-    long num, temp, digit, sum = 0;
 
  
 
