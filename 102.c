@@ -2,7 +2,7 @@
   int main() {
         char string[100], even[100], odd[100], i, j, k;
 
-        i = j = k = 0;
+       
 
         /* get the input string from the user */
         printf("Enter your input string:");
